@@ -1,0 +1,2 @@
+The color of the ear image is :
+(#e2e8dd)
